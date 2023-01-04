@@ -1,0 +1,7 @@
+nav { /* utiliser  flex  pour avoir le logo en haut à gauche de la page, et les liens de navigation à droite dans l’en-tête ; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+  
